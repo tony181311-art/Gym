@@ -1,0 +1,16 @@
+﻿Feature,Details
+Page Loader,Animated letter-by-letter brand reveal on load
+Navigation,"Fixed glassmorphism navbar, active link tracking, scroll-aware shrinking"
+Mobile Menu,Full-screen overlay with staggered link animations + animated hamburger
+Hero Section,"Ken Burns zoom effect, parallax scrolling, layered gradient overlays, animated CTA"
+Marquee Banner,Infinite CSS scrolling brand values ticker
+Featured Products,"4-column responsive grid, grayscale-to-color hover, slide-up ""Add to Cart"" buttons, working cart counter with toast notifications"
+Collection Gallery,"Asymmetric CSS Grid masonry layout, hover-reveal info overlays"
+About Us,"Split image/text layout with decorative border offset, animated stat counters"
+Contact Section,"Floating labels form, SVG icon details, simulated submission with success states"
+Newsletter,Minimal email capture bar with confirmation feedback
+Footer,"4-column grid, social icons with hover fills, legal links"
+Animations,"IntersectionObserver-powered scroll reveals (fade up, slide left/right), CSS transitions throughout"
+Responsive,"Fully mobile-first breakpoints at 1024px, 768px, and 480px"
+Typography,Cormorant Garamond (serif headings) + Montserrat (sans-serif body)
+Aesthetic,"Pure black & white, grayscale imagery, ultra-thin borders, generous whitespace"
